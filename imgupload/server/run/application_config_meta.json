@@ -1,0 +1,277 @@
+{
+  "keys": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+  "mysql": {
+    "client": {
+      "host": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+      "port": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+      "user": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+      "password": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+      "database": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js"
+    },
+    "app": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+    "agent": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+    "default": {
+      "database": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-mysql\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+      "type": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "E:\\lx\\nodejs\\imgupload\\server\\config\\config.default.js",
+    "autoFields": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "main": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "test": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "keywords": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "author": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\lx\\nodejs\\imgupload\\server\\node_modules\\egg\\config\\config.default.js"
+}

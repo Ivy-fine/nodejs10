@@ -1,0 +1,35 @@
+.classify {
+    height: 100%;
+    display: flex;
+}
+.left_side {
+    width: 120px;
+    line-height: 50px;
+    border-right: 1px solid #eee;
+    text-align: center;
+    height: 100%;
+}
+.left_side ul li.active {
+    color: red;
+}
+.rightside {
+    flex: 1;
+}
+.rightitem h3 {
+    line-height: 30px;
+    padding-left: 15px;
+}
+.rightlist dl {
+    display: flex;
+}
+.rightlist dl dt {
+    padding: 10px;
+    margin-right: 10px;
+}
+.rightlist dl dt img {
+    width: 100px;
+    height: 80px;
+}
+.rightlist dl dd {
+    padding-top: 15px;
+}
